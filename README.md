@@ -4,7 +4,8 @@
 axios（用于获取后台数据）
 
 该系统为SPA，主要由首页，详情页，分类，购物车，用户五个页面组成。
-1.首页截图：![](https://github.com/Derreisende/clothes-shop/blob/master/README_files/1.jpg)![](README_files/2.jpg)
+1.首页截图：
+![](https://github.com/Derreisende/clothes-shop/blob/master/README_files/1.jpg)![](README_files/2.jpg)
 首页中包含了导航栏，轮播图，商品推荐等模块，最下方的导航栏使用了前端路由，点击商品推荐中的图片会跳转到详情页。
 
 2.详情页截图：![](README_files/3.jpg)![](README_files/4.jpg)
