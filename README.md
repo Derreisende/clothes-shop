@@ -19,6 +19,9 @@ axios（用于获取后台数据）
 5.用户信息页面截图：![](README_files/8.jpg)
 用户信息页面展示了用户的相关信息
 
+
+# clothes_shop
+# 
 ## Project setup
 ```
 npm install
@@ -41,3 +44,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
