@@ -4,6 +4,7 @@
 axios（用于获取后台数据）
 
 该系统为SPA，主要由首页，详情页，分类，购物车，用户五个页面组成。
+
 1.首页截图：
 ![首页截图1](https://github.com/Derreisende/clothes-shop/blob/master/README_files/1.jpg)
 ![首页截图2](https://github.com/Derreisende/clothes-shop/blob/master/README_files/2.jpg)
